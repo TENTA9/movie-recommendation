@@ -12,8 +12,8 @@ A backend application for a movie recommendation system based on PostgreSQL and 
 You can view the detailed project report and presentation slides below.
 *(Please click the links to preview the PDF files)*
 
-* 📄 **Project Report:** [View Report PDF](./docs/Movie_recommendation_report.pdf)
-* 📊 **Presentation Slides:** [View Slides PDF](./docs/Movie_recommendation_presentation.pdf)
+* 📄 **Project Report:** [View Report PDF](./docs/TermProject_team6.pdf)
+* 📊 **Presentation Slides:** [View Slides PDF](./docs/Team6_20240613.pdf)
 
 ## 🛠 My Main Contributions
 
